@@ -13,7 +13,7 @@ Technologies that I have experience on :
 
 - React
 - Web Designing
-- Web DEvelopment
+- Web Development
 - SQL
 
 
