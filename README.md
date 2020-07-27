@@ -2,6 +2,7 @@
 ### Hi! 🤗 I am *Tanu Verma*.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gangstertanu.gangstertanu&title=profile%20views)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c52f9f14-83bf-4eed-8e47-283909814602/deploy-status)](https://app.netlify.com/sites/tanuverma/deploys)
 
 ---
 
